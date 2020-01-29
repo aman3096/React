@@ -1,3 +1,9 @@
+import React from 'react'
 
-conole.log("ANything");
-console.log("kamra to gayo");
+export default function hello() {
+    return (
+        <div>
+           Hello guys developer aman here 
+        </div>
+    )
+}
